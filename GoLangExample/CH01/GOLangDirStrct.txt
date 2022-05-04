@@ -1,0 +1,111 @@
+.
+├── api -> ../../share/go-1.13/api
+├── bin
+├── misc -> ../../share/go-1.13/misc
+├── pkg
+│   ├── include -> ../../../share/go-1.13/pkg/include
+│   ├── linux_amd64
+│   │   ├── archive
+│   │   ├── cmd
+│   │   │   ├── asm
+│   │   │   │   └── internal
+│   │   │   ├── compile
+│   │   │   │   └── internal
+│   │   │   ├── go
+│   │   │   │   └── internal
+│   │   │   │       ├── lockedfile
+│   │   │   │       │   └── internal
+│   │   │   │       └── modfetch
+│   │   │   ├── internal
+│   │   │   │   └── obj
+│   │   │   ├── link
+│   │   │   │   └── internal
+│   │   │   └── vendor
+│   │   │       ├── github.com
+│   │   │       │   ├── google
+│   │   │       │   │   └── pprof
+│   │   │       │   │       ├── internal
+│   │   │       │   │       └── third_party
+│   │   │       │   └── ianlancetaylor
+│   │   │       └── golang.org
+│   │   │           └── x
+│   │   │               ├── arch
+│   │   │               │   ├── arm
+│   │   │               │   ├── arm64
+│   │   │               │   ├── ppc64
+│   │   │               │   └── x86
+│   │   │               ├── crypto
+│   │   │               │   └── ssh
+│   │   │               ├── sys
+│   │   │               └── tools
+│   │   │                   └── go
+│   │   │                       ├── analysis
+│   │   │                       │   ├── internal
+│   │   │                       │   └── passes
+│   │   │                       │       └── internal
+│   │   │                       ├── ast
+│   │   │                       └── types
+│   │   ├── compress
+│   │   ├── container
+│   │   ├── crypto
+│   │   │   ├── ed25519
+│   │   │   │   └── internal
+│   │   │   ├── internal
+│   │   │   └── x509
+│   │   ├── database
+│   │   │   └── sql
+│   │   ├── debug
+│   │   ├── encoding
+│   │   ├── go
+│   │   │   └── internal
+│   │   ├── hash
+│   │   ├── html
+│   │   ├── image
+│   │   │   ├── color
+│   │   │   └── internal
+│   │   ├── index
+│   │   ├── internal
+│   │   │   └── syscall
+│   │   ├── io
+│   │   ├── log
+│   │   ├── math
+│   │   ├── mime
+│   │   ├── net
+│   │   │   ├── http
+│   │   │   ├── internal
+│   │   │   └── rpc
+│   │   ├── os
+│   │   │   └── signal
+│   │   │       └── internal
+│   │   ├── path
+│   │   ├── regexp
+│   │   ├── runtime
+│   │   │   ├── internal
+│   │   │   └── pprof
+│   │   │       └── internal
+│   │   ├── sync
+│   │   ├── testing
+│   │   │   └── internal
+│   │   ├── text
+│   │   │   └── template
+│   │   ├── unicode
+│   │   └── vendor
+│   │       └── golang.org
+│   │           └── x
+│   │               ├── crypto
+│   │               │   ├── cryptobyte
+│   │               │   └── internal
+│   │               ├── net
+│   │               │   ├── dns
+│   │               │   ├── http
+│   │               │   └── http2
+│   │               ├── sys
+│   │               └── text
+│   │                   ├── secure
+│   │                   └── unicode
+│   └── tool
+│       └── linux_amd64
+├── src -> ../../share/go-1.13/src
+└── test -> ../../share/go-1.13/test
+
+108 directories
